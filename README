@@ -1,0 +1,15 @@
+1. Compile:
+
+mvn clean compile
+
+2. Run using Jetty
+
+mvn jetty:run
+
+3. Generate WAR
+
+mvn war:war
+
+4. Code coverage
+
+mvn cobertura:cobertura
